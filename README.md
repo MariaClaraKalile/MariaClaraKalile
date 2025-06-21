@@ -19,4 +19,4 @@
 
 <img height=100 align="right" src="https://cdn.discordapp.com/attachments/856658134835265547/1385779150681276466/download_2.gif?ex=68574ee8&is=6855fd68&hm=a9f4edb4a53f07e6d7639c37fc782f8c20b31d03fc0e91e97cfa1a8c9b859a2b&" />
   
-![Snake animation](https://github.com/MariaClaraKalile)
+
