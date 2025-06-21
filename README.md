@@ -19,6 +19,6 @@
   </a> 
 </div>
 
-<img height=100 align="right" src="https://cdn.discordapp.com/attachments/856658134835265547/1385779150681276466/download_2.gif?ex=68574ee8&is=6855fd68&hm=a9f4edb4a53f07e6d7639c37fc782f8c20b31d03fc0e91e97cfa1a8c9b859a2b&" />
+<img height=100 align="right" src="https://cdn.discordapp.com/attachments/662403619064119304/1385970340949135483/cat.gif?ex=685800f7&is=6856af77&hm=51cf85ab27641cadc016445507a7c063c3a788ecf493c3089a1ee3579e78f790&" />
   
 
