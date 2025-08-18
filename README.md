@@ -1,6 +1,6 @@
 ## Olá! Sou a Maria Clara!
 
-- 🖤 Estudante de Engenharia de Software
+- 🖤 Graduando Engenharia de Software
 - 🖤 Em processo de aprendizagem
 
 <a href="https://github.com/MariaClaraKalile/github-readme-stats">
